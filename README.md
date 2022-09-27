@@ -3,14 +3,14 @@ Bonjour ! Je suis Paco, un étudiant de 25 ans. Je suis actuellement dans ma pre
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-es compétences
+Mes compétences
 👉 Dev Back
 
- PHP  phpMyAdmin   MariaDB   apache   SQL
+ PHP  phpMyAdmin   MariaDB   Apache   SQL
  
 👉 Dev Front
 
-  HTML   CSS   JavaScript  ( Bientot JS)
+  HTML   CSS   ( Bientot JS)
   
 👉 Logiciels et outils
 
